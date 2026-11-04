@@ -1,0 +1,212 @@
+[
+  {
+    "source": "761677675_18610056058059632_8290642850822047375_n.jpg",
+    "asset": "assets/ice-cream/scoop-cups.webp",
+    "small": "assets/ice-cream/scoop-cups-small.webp",
+    "description": "Three ice-cream cups in an orange-and-aqua promotional composition.",
+    "width": 1147,
+    "height": 1400,
+    "bytes": 94624,
+    "sha256": "5264bc32d1dc3be2a337fd07212fc3801591deeb310dcb89e0a55883c63fa957"
+  },
+  {
+    "source": "763318368_18611371774059632_3720768926635505303_n.jpg",
+    "asset": "assets/ice-cream/wafer-sandwiches.webp",
+    "small": "assets/ice-cream/wafer-sandwiches-small.webp",
+    "description": "Stacked ice-cream wafer sandwiches on aqua; no overlaid text. Flavors unverified.",
+    "width": 1138,
+    "height": 1400,
+    "bytes": 146288,
+    "sha256": "e88a5dc096bbcb8916e3e351efb779c1147f22a8fe6605c3a0dea293b3090c82"
+  },
+  {
+    "source": "763463667_18611371789059632_5112234386134595358_n.jpg",
+    "asset": "assets/ice-cream/wrapped-wafer-sandwiches.webp",
+    "small": "assets/ice-cream/wrapped-wafer-sandwiches-small.webp",
+    "description": "Stacked wafer sandwiches with CREMINO packaging on orange.",
+    "width": 1138,
+    "height": 1400,
+    "bytes": 112028,
+    "sha256": "974bac2e6c2b28d5ce86aef2d6809e6e45d2b2030a8aa63b32b7726da311a72f"
+  },
+  {
+    "source": "771855662_18613684534059632_2608036885603438814_n.jpg",
+    "asset": "assets/desserts/berry-desserts-orange.webp",
+    "small": "assets/desserts/berry-desserts-orange-small.webp",
+    "description": "Small berry-topped desserts on orange. Image text says no added sugar; details require confirmation.",
+    "width": 1135,
+    "height": 1400,
+    "bytes": 63218,
+    "sha256": "7b533645b2eb06998aa635bfdc2ceaf75c070ecff2c5637566573f382b031619"
+  },
+  {
+    "source": "772839740_18614082607059632_692474670538863421_n.jpg",
+    "asset": "assets/ice-cream/floating-cone.webp",
+    "small": "assets/ice-cream/floating-cone-small.webp",
+    "description": "Ice-cream cone above an outstretched hand against blue sky. Flavor unverified.",
+    "width": 1130,
+    "height": 1400,
+    "bytes": 52698,
+    "sha256": "3573ad8c948a36912514f0cb363f44eaa907417a4e98881e0113939c4ec202e3"
+  },
+  {
+    "source": "772854179_18613684708059632_9045083594687597699_n.jpg",
+    "asset": "assets/desserts/berry-desserts-and-blossoms.webp",
+    "small": "assets/desserts/berry-desserts-and-blossoms-small.webp",
+    "description": "Small berry-topped desserts beneath flowering branches.",
+    "width": 1124,
+    "height": 1400,
+    "bytes": 115662,
+    "sha256": "1fc566aa6f743b005cb6d51ca2c934b1a1eb839b9f1406f8f16e9b0b2ac32c1a"
+  },
+  {
+    "source": "773014147_18613684699059632_4438791551663235807_n.jpg",
+    "asset": "assets/desserts/berry-dessert-assortment.webp",
+    "small": "assets/desserts/berry-dessert-assortment-small.webp",
+    "description": "Berry-topped tartlets and individual cakes on aqua.",
+    "width": 1124,
+    "height": 1400,
+    "bytes": 79988,
+    "sha256": "f7a5acb4c44d74c50135fe806d532c6a1a396b0c3914be2aeefd3bb16a485d29"
+  },
+  {
+    "source": "781425562_18617256085059632_4651791021950445591_n.jpg",
+    "asset": "assets/moments/girl-with-ice-cream.webp",
+    "small": "assets/moments/girl-with-ice-cream-small.webp",
+    "description": "Child holding an ice-cream cone on aqua.",
+    "width": 1141,
+    "height": 1400,
+    "bytes": 163682,
+    "sha256": "597925c5836f49dbce57e6e99688de1812c9e6cc138752cf8831b107c5cfdd32"
+  },
+  {
+    "source": "792089351_18621787867059632_2496360481313604828_n.jpg",
+    "asset": "assets/moments/boy-with-ice-cream.webp",
+    "small": "assets/moments/boy-with-ice-cream-small.webp",
+    "description": "Child with an ice-cream cup, looking upward.",
+    "width": 1120,
+    "height": 1400,
+    "bytes": 85258,
+    "sha256": "5ec6b51d5c990195612522dbc6014714dff53e15c7aab6653e57bc5de829a275"
+  },
+  {
+    "source": "821123468_18629418961059632_501812813794763501_n.jpg",
+    "asset": "assets/chocolates/chocolate-gift-platters.webp",
+    "small": "assets/chocolates/chocolate-gift-platters-small.webp",
+    "description": "Wrapped chocolate arrangements on woven serving platters.",
+    "width": 1179,
+    "height": 1400,
+    "bytes": 72594,
+    "sha256": "14c112440a89c0bf19ce362213f8ac2459bb7b0bc35fb64b6a752feaa8934963"
+  },
+  {
+    "source": "821151346_18629418970059632_5280833375683345079_n.jpg",
+    "asset": "assets/chocolates/floral-chocolate-platter.webp",
+    "small": "assets/chocolates/floral-chocolate-platter-small.webp",
+    "description": "Wrapped chocolates and flowers on an elongated platter.",
+    "width": 1179,
+    "height": 1400,
+    "bytes": 84090,
+    "sha256": "98ff6556ef3922389336e4d4b377a72fbe17e5f44e8fe6c7ebd8057a99a3d3a1"
+  },
+  {
+    "source": "825320740_18630853993059632_569188123044453145_n.jpg",
+    "asset": "assets/chocolates/floral-chocolate-bowl.webp",
+    "small": "assets/chocolates/floral-chocolate-bowl-small.webp",
+    "description": "Wrapped chocolates in a white sculpted bowl with flowers.",
+    "width": 1119,
+    "height": 1400,
+    "bytes": 91292,
+    "sha256": "c0e44cf469abd65816e647551ac78340575fbbc362e28142b407189e87fd832f"
+  },
+  {
+    "source": "825320835_18630853957059632_5929604461957430472_n.jpg",
+    "asset": "assets/chocolates/tiered-chocolate-arrangement.webp",
+    "small": "assets/chocolates/tiered-chocolate-arrangement-small.webp",
+    "description": "Tiered arrangement of wrapped chocolates with flowers.",
+    "width": 1119,
+    "height": 1400,
+    "bytes": 135988,
+    "sha256": "81c05019abaf5ac7b13b9110c27a17fc596f8a8f0dfe5139fd04cd73200947a5"
+  },
+  {
+    "source": "851375817_18638055229059632_4249709311640491215_n.jpg",
+    "asset": "assets/cakes/dark-halloween-cake.webp",
+    "small": "assets/cakes/dark-halloween-cake-small.webp",
+    "description": "Dark Halloween-themed celebration cake.",
+    "width": 1119,
+    "height": 1400,
+    "bytes": 63694,
+    "sha256": "dc34b1dca158b5c7b24cc06e6c031057e25b2ebc4cb0f6c25ccef51037f9ff2a"
+  },
+  {
+    "source": "852558661_18638055217059632_8858600993224094186_n.jpg",
+    "asset": "assets/cakes/character-halloween-cake.webp",
+    "small": "assets/cakes/character-halloween-cake-small.webp",
+    "description": "Halloween character-decorated cake.",
+    "width": 1119,
+    "height": 1400,
+    "bytes": 63266,
+    "sha256": "728bc3ecbc9c3e8ec8ae0449d0dca2994d2a29ea57b07d7633bbb5d0ec7eda3a"
+  },
+  {
+    "source": "858263884_18639699007059632_3612096113283134055_n.jpg",
+    "asset": "assets/cakes/currency-design-cake.webp",
+    "small": "assets/cakes/currency-design-cake-small.webp",
+    "description": "Novelty cake with printed currency design.",
+    "width": 1183,
+    "height": 1400,
+    "bytes": 86024,
+    "sha256": "2504379f38b9d4f3d8bb5db305921a74c4092583481122e0fcd62b4cb9f1a027"
+  },
+  {
+    "source": "858429369_18639698971059632_9043135640891195664_n.jpg",
+    "asset": "assets/cakes/red-bow-celebration-cake.webp",
+    "small": "assets/cakes/red-bow-celebration-cake-small.webp",
+    "description": "Two-tier white celebration cake decorated with red bows.",
+    "width": 1183,
+    "height": 1400,
+    "bytes": 57452,
+    "sha256": "3f69e5426f433474b48e04da256c63e20428a428ac13c87bfe1e6036043c9599"
+  },
+  {
+    "source": "861628268_18639698989059632_3952296436351415623_n.jpg",
+    "asset": "assets/cakes/orange-celebration-cake.webp",
+    "small": "assets/cakes/orange-celebration-cake-small.webp",
+    "description": "Orange celebration cake with decorative stacked pastry-like pieces.",
+    "width": 1183,
+    "height": 1400,
+    "bytes": 97474,
+    "sha256": "162cac9422477c1a904e9bd369dadb8ec6b10be500d0f0a9be0a9647b70ca75f"
+  },
+  {
+    "source": "870245983_18641996224059632_8334484631265127434_n.jpg",
+    "asset": "assets/pastries/berry-roll-and-coffee.webp",
+    "small": "assets/pastries/berry-roll-and-coffee-small.webp",
+    "description": "Berry-colored rolled pastry beside a coffee cup; exact flavor unverified.",
+    "width": 1150,
+    "height": 1400,
+    "bytes": 56884,
+    "sha256": "357fcc0ad549233e0d6a112c5bc6cf3ec4a319425ee5e0415828d25ca45b7844"
+  },
+  {
+    "source": "870461731_18641996233059632_3917774991272712912_n.jpg",
+    "asset": "assets/pastries/chocolate-roll-and-coffee.webp",
+    "small": "assets/pastries/chocolate-roll-and-coffee-small.webp",
+    "description": "Chocolate-topped rolled pastry beside a coffee cup.",
+    "width": 1150,
+    "height": 1400,
+    "bytes": 52794,
+    "sha256": "1eeb03952a1d89a92959fc85ccec0f3ee1f0c4a63aa659c07c0eade6e2e0ce8c"
+  },
+  {
+    "source": "871683540_18641996242059632_6401131357884189694_n.jpg",
+    "asset": "assets/pastries/cinnamon-roll-and-coffee.webp",
+    "small": "assets/pastries/cinnamon-roll-and-coffee-small.webp",
+    "description": "Spiral rolled pastry with icing beside a coffee cup; menu naming unverified.",
+    "width": 1150,
+    "height": 1400,
+    "bytes": 59050,
+    "sha256": "16014f4ef91560743b26bfcc7595b40d0c669c7cf0dbabdab009644287f65a24"
+  }
+]
